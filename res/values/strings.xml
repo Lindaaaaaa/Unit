@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">unit</string>
+    <string name="CentimeterTitle">Centimeter</string>
+    <string name="IncheTitle">Inche</string>
+    <string name="ButtonConverterTitle">Convert</string>
+</resources>
